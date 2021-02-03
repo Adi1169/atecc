@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "cryptoauthlib.h": "c",
+        "atca_status.h": "c",
+        "atca_device.h": "c",
+        "atca_command.h": "c",
+        "atca_cfgs.h": "c",
+        "atca_basic.h": "c",
+        "atca_helpers.h": "c",
+        "string.h": "c",
+        "atca_execution.h": "c",
+        "atca_start_config.h": "c",
+        "hal_delay.h": "c",
+        "atca_hal.h": "c",
+        "nrf_log_default_backends.h": "c",
+        "nrf_log_ctrl.h": "c"
+    }
+}
