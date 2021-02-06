@@ -13,6 +13,8 @@
         "hal_delay.h": "c",
         "atca_hal.h": "c",
         "nrf_log_default_backends.h": "c",
-        "nrf_log_ctrl.h": "c"
-    }
+        "nrf_log_ctrl.h": "c",
+        "nrf_delay.h": "c"
+    },
+    "cmake.configureOnOpen": false
 }

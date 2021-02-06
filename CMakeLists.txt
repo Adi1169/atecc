@@ -34,6 +34,7 @@ message(STATUS "Configuring CMake for nRF5 SDK for ${PROJECT_NAME} ${VERSION_STR
 nRF5_setup()
 
 if(NOT TARGET download)
+    add_subdirectory(keys)
     add_subdirectory("src")
 endif()
 

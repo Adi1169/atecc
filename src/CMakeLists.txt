@@ -23,6 +23,16 @@ set(target example)
 nRF5_addLog()
 nRF5_addSeggerRTT()
 nRF5_addAppError()
+nRF5_addAppScheduler()
+nRF5_addAppFIFO()
+nRF5_addAppTimer()
+nRF5_addAppUART()
+nRF5_addAppButton()
+nRF5_addPowerMgmt()
+nRF5_addBSP(TRUE FALSE FALSE)
+nRF5_addBLEGATT()
+nRF5_addBLEQWR()
+nRF5_addBLEService(ble_lbs)
 
 
 
